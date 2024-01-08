@@ -42,4 +42,12 @@ If you want to download the product, click "Download".
 
 ![](figs/6.png)
 
+### other notes
+
+There is a limit on the number of requests and processing units per month.
+
+You can check the remaining number of requests and processing units by clicking "SH Dashboard".
+
+![](figs/7.png)
+
 > cf. @solafune(https://solafune.com) Use for any purpose other than participation in the competition or commercial use is prohibited. If you would like to use them for any of the above purposes, please contact us.
