@@ -10,7 +10,7 @@ After signing up, click "SEARCH" tab.
 
 ![](figs/1.png)
 
-### step 2: Configure the search condition
+### step 2: Configure the search conditions
 
 Select "SENTINEL-2" and "L2A".
 
@@ -22,13 +22,13 @@ Set the time period (e.g., 2022-01-01 to 2023-08-30 in the figure below).
 
 ![](figs/3.png)
 
-### step 3: Configure the area of interest and search
+### step 3: Configure the area of interest
 
 In the figure below, the area of interest is set to the region around Tokyo.
 
-![](figs/4.png)
+Once the area of interest is set, click "Search" button to start the search.
 
-Once the area of interest is set, click "Search" button.
+![](figs/4.png)
 
 ### step 4: Select the products to download
 
